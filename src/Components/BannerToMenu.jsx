@@ -29,7 +29,7 @@ function BannerToMenu() {
           <h1 className='mb-4 text-4xl font-semibold md:text-5xl font-jost'>Delight in Every Bite,  Explore Our Menu!</h1>
           
           <p className='mb-6 text-lg'>
-            From classic favorites to modern twists, our menu is crafted to satisfy every craving. Whether you're in the mood for a hearty meal or a light snack, we've got something special waiting for you. Come, taste the difference!
+            From classic favorites to modern twists, our menu is crafted to satisfy every craving. Whether you're in the mood for a hearty meal or a light snack, we've got something special waiting for you. Come, taste the difference
           </p>
 
           <button className='px-[30px] font-medium font-jost py-3 text-white transition duration-300 bg-black border-2 border-black hover:bg-white hover:text-black'onClick={()=>{navigate("/menu")}}>
